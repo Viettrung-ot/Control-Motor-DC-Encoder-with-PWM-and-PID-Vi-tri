@@ -1,0 +1,14 @@
+../Core/Src/main.c:87:6:Xuat_PWM	32	static
+../Core/Src/main.c:92:6:QuayThuan	8	static
+../Core/Src/main.c:97:6:QuayNghich	8	static
+../Core/Src/main.c:102:6:Dung	8	static
+../Core/Src/main.c:107:6:KiemTra_NN	8	static
+../Core/Src/main.c:120:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:135:6:DieuKhienViTri	8	static
+../Core/Src/main.c:150:6:HAL_TIM_PeriodElapsedCallback	24	static
+../Core/Src/main.c:173:5:main	256	static
+../Core/Src/main.c:265:6:SystemClock_Config	88	static
+../Core/Src/main.c:312:13:MX_TIM2_Init	32	static
+../Core/Src/main.c:357:13:MX_TIM4_Init	64	static
+../Core/Src/main.c:416:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:467:6:Error_Handler	4	static,ignoring_inline_asm
